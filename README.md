@@ -6,4 +6,4 @@ Code-Jargon is an Open source Repository where you can make contribution by just
 ## What is Jargon?
 Jargon is the specialized terminology associated with a particular field or area of activity.Jargon is normally employed in a particular communicative context and may not be well understood outside that context. The context is usually a particular occupation (that is, a certain trade, profession, vernacular or academic field), but any ingroup can have jargon.
 
-![Jargon](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/uilt0tpgcamfssavf5jq)
+![Jargon](https://gust-production.s3.amazonaws.com/uploads/startup/panoramic_image/506389/jargon-logo.png)
